@@ -101,35 +101,3 @@ I love sharing my knowledge and experiences through writing. Check out my featur
 ## Profile Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Chisomnwa)](https://github.com/ryo-ma/github-profile-trophy)
-</p>
-
-## 📂 Featured Projects
-
-I use this space to document my work, experiments, and practical applications of data analytics and artificial intelligence.
-
-My project areas include:
-
-- 📊 Business Intelligence & Data Visualization
-- 🗄️ SQL Data Analysis
-- 🐍 Python Exploratory Data Analysis
-- 🤖 Machine Learning & Predictive Analytics
-- 🌱 AI for Agriculture
-- 👁️ Computer Vision & Vision-Language Models
-
-*Individual project repositories and documentation will be added as they are published.*
-
-## 🌍 Beyond Technology
-
-I'm passionate about creating opportunities for others through technology and entrepreneurship.
-
-Through [DataGirls Tanzania](https://www.linkedin.com/), I work towards helping girls and young women access skills and opportunities in Data Science, Analytics, and AI.
-
-Through Sheva Africa, I'm building pathways that connect African women in data analytics with businesses and economic opportunities.
-
-I believe technical skills become even more powerful when they create opportunities beyond ourselves.
-
----
-
-<p align="center">
-  <b>Let's connect, collaborate, and build with data! 🚀</b>
-</p>
