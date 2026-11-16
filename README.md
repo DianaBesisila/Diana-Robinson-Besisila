@@ -59,9 +59,9 @@ I enjoy solving complex problems at the intersection of systems and data, where 
 I love sharing my knowledge and experiences through writing. Check out my featured blog posts:
 
 <!-- MEDIUM:START -->
-- [Start Scared but Start](https://medium.com/@ThatSweeetDataAnalyst/a-few-years-ago-i-didnt-see-myself-here-e2ff600a1727?sharedUserId=ThatSweeetDataAnalyst)
+- [Start Scared but Start Anyways](https://medium.com/@ThatSweeetDataAnalyst/a-few-years-ago-i-didnt-see-myself-here-e2ff600a1727?sharedUserId=ThatSweeetDataAnalyst)
 - [Tech is for Her, Him and Everyone.](https://medium.com/@ThatSweeetDataAnalyst/tech-is-for-her-him-and-everyone-94414306150f?sharedUserId=ThatSweeetDataAnalyst)
-- [ELT Data Pipeline with GCP and Apache Airflow](https://medium.com/towards-data-engineering/elt-data-pipeline-with-gcp-and-apache-airflow-86c6d72544ef)
+- [Global Suicide Tableau Analysis 1985–2020.](https://medium.com/@ThatSweeetDataAnalyst/global-suicide-tableau-analysis-1985-2020-9952640d2a0c?sharedUserId=ThatSweeetDataAnalyst)
 <!-- MEDIUM:END -->
 
 ## 🌍 Beyond Technology
