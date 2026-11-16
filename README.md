@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Diana Robinson Besisila</h1>
-<h3 align="center">Business Intelligence Analyst | Educator | Data Analst </h3>
+<h3 align="center">Data Analyst | Business Intelligence | Data Science & AI </h3># Hi 👋🏽, I'm Diana Robinson Besisila
+
 
 
 <p align="center">
