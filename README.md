@@ -33,7 +33,15 @@ I enjoy solving complex problems at the intersection of systems and data, where 
 
 
 ## 🛠️ Tech Stack:
-**Here are some of the tools and technologies I work with:**
+**Programming & Analysis: Python, SQL
+
+Data Analysis: Microsoft Excel, Pandas
+
+Data Visualization: Power BI, Tableau
+
+Development Environment: Jupyter Notebook, Google Colab
+
+Version Control: Git & GitHub**
 
 <code><img height="30" src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" alt="Go"></code>
 <code><img height="30" src="https://www.rust-lang.org/logos/rust-logo-512x512.png" alt="Rust"></code>
