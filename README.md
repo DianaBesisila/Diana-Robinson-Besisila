@@ -1,62 +1,98 @@
-## Hi there, I'm Diana Robinson Besisila👋
+# Hi there, I'm Diana Robinson Besisila 👋
 
 <div align="center">
-  <!--  You can customize the typing text in the "lines=" section of the URL below -->
-  <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;[Your+Specialty+Here];[Your+Experience+or+Tagline]" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Data+Analytics+Consultant;Data+Science+%26+AI+Professional;Machine+Learning+%26+Applied+AI;Building+Opportunities+for+Women+in+Data" alt="Typing SVG" />
 </div>
 
-<!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile-url"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://youtube.com/your-channel-url"><img src="https://img.shields.io/badge/YouTube-My_Channel-red?style=for-the-badge&logo=youtube"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/DianaBesisila">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
 </p>
 
-## 🚀 About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
+---
 
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
+## 👩🏽‍💻 About Me
 
-When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating content, hiking, mentoring others, etc.]. I love the "aha!" moment when data reveals something new and useful.
+I'm Diana Robinson Besisila, a Data Analytics Consultant and Master's student in Data Science & Artificial Intelligence.
 
-<!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
-      
-## 🔭 What I'm Currently Working On 
+I work with businesses on data-driven solutions, exploring how data analytics, machine learning, and artificial intelligence can be applied to real-world problems.
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+Beyond my technical work, I'm an entrepreneur and founder building initiatives that expand access to data and technology opportunities for African women.
 
-## 🌱 Currently Learning 
+- 🎓 Master's student in Data Science & Artificial Intelligence at NM-AIST.
+- 📊 Data Analytics Consultant working with data-driven solutions.
+- 👩🏽‍💼 Founder & Executive Lead of [DataGirls Tanzania](https://www.linkedin.com/).
+- 🌍 Founder & Lead of Sheva Africa.
+- 🤖 Exploring machine learning, computer vision, and vision-language models.
+- 🌱 Interested in AI applications in agriculture and social impact.
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+## 🔭 Current Focus
 
-## 🛠️ Technical Skillset
+- Developing practical data analytics and business intelligence solutions.
+- Exploring machine learning and deep learning applications.
+- Working on vision-language models for agricultural applications.
+- Exploring efficient AI models for edge deployment.
+- Building opportunities for women in data through DataGirls Tanzania and Sheva Africa.
 
-<!-- This section uses Shields.io badges. You can customize them or create your own!-->
+## 🛠️ Technical Skills
 
-#### Data Analysis & Visualization
+### Data Analytics & Business Intelligence
+
 <p>
-  <!-- 💡 Go to Shields.io to create your own badges -->
-  <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
-  <img src="https://img.shields.io/badge/Power%20BI-Expert-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
-  <img src="https://img.shields.io/badge/Excel-Expert-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
-  <img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Skill Badge">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 </p>
 
-#### Programming & Automation
+### Programming & Data Science
+
 <p>
-  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
-  <img src="https://img.shields.io/badge/R-Beginner-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
 
-#### Business Intelligence & Analytics
+### Machine Learning & Artificial Intelligence
+
 <p>
-  <img src="https://img.shields.io/badge/A%2FB%20Testing-Experienced-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
-  <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
-  <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
-  <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Computer_Vision-5C6BC0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Deep_Learning-8E44AD?style=for-the-badge" />
+</p>
+
+## 📂 Featured Projects
+
+I use this space to document my work, experiments, and practical applications of data analytics and artificial intelligence.
+
+My project areas include:
+
+- 📊 Business Intelligence & Data Visualization
+- 🗄️ SQL Data Analysis
+- 🐍 Python Exploratory Data Analysis
+- 🤖 Machine Learning & Predictive Analytics
+- 🌱 AI for Agriculture
+- 👁️ Computer Vision & Vision-Language Models
+
+*Individual project repositories and documentation will be added as they are published.*
+
+## 🌍 Beyond Technology
+
+I'm passionate about creating opportunities for others through technology and entrepreneurship.
+
+Through [DataGirls Tanzania](https://www.linkedin.com/), I work towards helping girls and young women access skills and opportunities in Data Science, Analytics, and AI.
+
+Through Sheva Africa, I'm building pathways that connect African women in data analytics with businesses and economic opportunities.
+
+I believe technical skills become even more powerful when they create opportunities beyond ourselves.
+
+---
+
+<p align="center">
+  <b>Let's connect, collaborate, and build with data! 🚀</b>
 </p>
