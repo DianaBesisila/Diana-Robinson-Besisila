@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Diana Robinson Besisila</h1>
-<h3 align="center">Data Analytics Consultant | Educator | Founder, DataGirls Tanzania | Building Pathways for Women in Data & AI</h3>
+<h3 align="center">Business Intelligence Analyst | Educator | Data Analst </h3>
 
 
 <p align="center">
@@ -19,11 +19,11 @@
 
 ## 🚀 About me:
 
-I'm also a Software Engineer with a foundation in backend and data infrastructure. As a Google Summer of Code fellow with the Internet Archive's Open Library, I designed schema changes and migration tooling to bring canonical genre metadata to a 40M+ record catalog, building systems that run safely on millions of real records.
+I'm a Business Intelligence Analyst interested in using data to help businesses make smarter, evidence-based decisions. I enjoy transforming raw data into actionable insights, identifying trends and patterns, and translating complex information into clear recommendations that support business growth and performance.
 
-I also bring a background in data engineering, with practical experience designing, building, and maintaining scalable cloud data pipelines and infrastructure, turning raw data into structured, analytics-ready systems that support better decisions, and using tools like dbt, Airflow, and Terraform across AWS and GCP.
+My work focuses on business analytics, data analysis, reporting, and visualization, using tools such as Excel, SQL, Power BI, and Python.
 
-I enjoy solving complex problems at the intersection of systems and data, where performance, scalability, and clean design matter most.
+I'm particularly interested in understanding business challenges through data, uncovering opportunities for improvement, and developing analytical solutions that help organizations work more effectively. I believe data is most valuable when it moves beyond reports and contributes to better decisions and meaningful results.
 
 
 ## ✨ When I'm not immersed in code, you'll find me:
