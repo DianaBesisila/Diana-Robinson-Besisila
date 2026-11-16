@@ -64,17 +64,3 @@ I love sharing my knowledge and experiences through writing. Check out my featur
 - [ELT Data Pipeline with GCP and Apache Airflow](https://medium.com/towards-data-engineering/elt-data-pipeline-with-gcp-and-apache-airflow-86c6d72544ef)
 <!-- MEDIUM:END -->
 
-
-<h2>ℹ️ &nbsp;Github Info</h2>
-
-  <summary><b>⚡ Github Stats</b></summary>
-  
-<i> Note:</i>  These are not an indication of my skill level, just an overview of commits.
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Chisomnwa&show_icons=true&locale=en&hide_border=true" alt="nikita" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Chisomnwa&show_icons=true&locale=en&layout=compact&langs_count=7&hide_border=true&hide=c" alt="manumanoj0010"/>
-
-
-## Profile Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Chisomnwa)](https://github.com/ryo-ma/github-profile-trophy)
