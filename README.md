@@ -59,7 +59,7 @@ I enjoy solving complex problems at the intersection of systems and data, where 
 I love sharing my knowledge and experiences through writing. Check out my featured blog posts:
 
 <!-- MEDIUM:START -->
-- [Understanding Data Modeling Concepts as a Data Engineer](https://medium.com/towards-data-engineering/understanding-data-modeling-concepts-as-a-data-engineer-a0b9637027e3)
+- [Start Scared but Start](https://medium.com/@ThatSweeetDataAnalyst/a-few-years-ago-i-didnt-see-myself-here-e2ff600a1727?sharedUserId=ThatSweeetDataAnalyst)
 - [Building OLAP Dimensional Model in BigQuery, using dbt as a Data Transformation Tool](https://medium.com/towards-data-engineering/building-olap-dimensional-model-in-bigquery-using-dbt-as-a-data-transformation-tool-bfd087293965)
 - [ELT Data Pipeline with GCP and Apache Airflow](https://medium.com/towards-data-engineering/elt-data-pipeline-with-gcp-and-apache-airflow-86c6d72544ef)
 <!-- MEDIUM:END -->
