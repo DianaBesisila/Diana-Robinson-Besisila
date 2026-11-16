@@ -60,7 +60,7 @@ I love sharing my knowledge and experiences through writing. Check out my featur
 
 <!-- MEDIUM:START -->
 - [Start Scared but Start](https://medium.com/@ThatSweeetDataAnalyst/a-few-years-ago-i-didnt-see-myself-here-e2ff600a1727?sharedUserId=ThatSweeetDataAnalyst)
-- [Building OLAP Dimensional Model in BigQuery, using dbt as a Data Transformation Tool](https://medium.com/towards-data-engineering/building-olap-dimensional-model-in-bigquery-using-dbt-as-a-data-transformation-tool-bfd087293965)
+- [Tech is for Her, Him and Everyone.](https://medium.com/@ThatSweeetDataAnalyst/tech-is-for-her-him-and-everyone-94414306150f?sharedUserId=ThatSweeetDataAnalyst)
 - [ELT Data Pipeline with GCP and Apache Airflow](https://medium.com/towards-data-engineering/elt-data-pipeline-with-gcp-and-apache-airflow-86c6d72544ef)
 <!-- MEDIUM:END -->
 
