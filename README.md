@@ -42,11 +42,18 @@ I enjoy solving complex problems at the intersection of systems and data, where 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" alt="Bash"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="AWS"></code>
-<code><img height="30" src="https://avatars.githubusercontent.com/u/33643075?s=280&v=4"></code>
+<code><img height="30" src="https://avatars.githubusercontent.com/u/33643075?s=280&v=4" alt="Azure"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostgreSQL"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI"></code>
+<code><img height="30" src="https://colab.research.google.com/img/colab_favicon.ico" alt="Google Colab"></code>
+<code><img height="30" src="https://www.gstatic.com/analytics-suite/header/suite/v2/ic_data_studio.svg" alt="Looker Studio"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="Excel"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/jupyter/design/master/logos/Main%20Logo/Main%20Logo%20%28SVG%29/Jupyter%20Logo.svg" alt="Jupyter Notebook"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" alt="Databricks"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure_Logo.svg" alt="Azure"></code>
 
 **Other tools and technologies:**
 [![Google Cloud Platform](https://img.shields.io/badge/Google_Cloud_Platform-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
