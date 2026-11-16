@@ -6,7 +6,7 @@
   <a href="https://chisom-nnamani.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/portfolio-%23CCFF33.svg?&style=for-the-badge&logo=netlify&logoColor=black" alt="Portfolio Website" />
   </a>
-  <a href="https://www.linkedin.com/in/chisom-nnamani/" target="_blank">
+  <a href="https://www.linkedin.com/in/yourdatamentor/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/your_data_mentor/" target="_blank">
