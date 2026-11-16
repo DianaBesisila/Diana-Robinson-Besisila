@@ -55,31 +55,6 @@ I enjoy solving complex problems at the intersection of systems and data, where 
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" alt="Databricks"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" alt="Microsoft Azure"></code>
 
-**Other tools and technologies:**
-[![Google Cloud Platform](https://img.shields.io/badge/Google_Cloud_Platform-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
-[![Apache Spark](https://img.shields.io/badge/Apache-Spark-orange.svg?style=for-the-badge&logo=apache-spark&logoColor=white)](https://spark.apache.org/)
-[![PowerBI](https://img.shields.io/badge/PowerBI-yellow.svg?style=for-the-badge&logo=powerbi&logoColor=white)](https://www.microsoft.com/en-us/power-platform/products/power-bi)
-[![Tableau](https://img.shields.io/badge/Tableau-white.svg?style=for-the-badge&logo=tableau&logoColor=auto)](https://www.tableau.com/)
-
-<!--
-**links not working (commented out):** 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/google-cloud/google-cloud.png" alt="Google Cloud"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spark/spark.png" alt="Apache Spark"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tableau/tableau.png" alt="Tableau"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/powerbi/powerbi.png" alt="Power BI"></code>
--->
-
-
-<!--
-## 🎯 Goals
-- Contribute to open-source data engineering projects.
-
-- Continue sharing my knowledge through blogs, and expand into tutorials and talks.
-
-- Collaborate on innovative data solutions that make a real-world impact.
--->
-
-
 ## ✍️ Blogs & Writing
 I love sharing my knowledge and experiences through writing. Check out my featured blog posts:
 
