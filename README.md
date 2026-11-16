@@ -80,4 +80,16 @@ I believe technical skills become even more powerful when they create opportunit
   <b>Let's connect, collaborate, and build with data! 🚀</b>
 </p>
 
+🛠️ Tech Stack
 
+Data Analytics & Business Intelligence
+
+<p>   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" /> </p>
+
+Programming & Data Analysis
+
+<p>   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" /> </p>
+
+Machine Learning & Artificial Intelligence
+
+<p>   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />   <img src="https://img.shields.io/badge/Computer_Vision-5C6BC0?style=for-the-badge" />   <img src="https://img.shields.io/badge/Deep_Learning-8E44AD?style=for-the-badge" /> </p>
