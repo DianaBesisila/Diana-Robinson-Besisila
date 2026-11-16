@@ -9,8 +9,8 @@
   <a href="https://www.linkedin.com/in/yourdatamentor/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>&nbsp;
-  <a href="https://mobile.twitter.com/som_nnamani">
-    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  <a href="https://www.instagram.com/your_data_mentor/">
+    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=red" alt="Twitter" />
   </a>&nbsp;
   <a href="https://medium.com/@chisomnnamani">
     <img src="https://img.shields.io/badge/medium-%23D2B48C.svg?&style=for-the-badge&logo=medium&logoColor=black" alt="Medium" />
