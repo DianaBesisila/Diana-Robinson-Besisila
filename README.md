@@ -52,7 +52,6 @@ I enjoy solving complex problems at the intersection of systems and data, where 
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI"></code>
 <code><img height="30" src="https://colab.research.google.com/img/colab_favicon.ico" alt="Google Colab"></code>
 <code><img height="30" src="https://www.gstatic.com/analytics-suite/header/suite/v2/ic_data_studio.svg" alt="Looker Studio"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter/jupyter.png" alt="Jupyter Notebook"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" alt="Databricks"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" alt="Microsoft Azure"></code>
 
