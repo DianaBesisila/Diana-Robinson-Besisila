@@ -28,12 +28,12 @@ I enjoy solving complex problems at the intersection of systems and data, where 
 
 ## ✨ When I'm not immersed in code, you'll find me:
 
-- 📚 Reading personal development and self-growth books.
-- 🎧 Listening to music and discovering new sounds.
-- 🎬 Watching movies, especially those with a good story.
-- 🏊🏽‍♀️ Swimming whenever I get the chance.
-- 🍜 Exploring good food and enjoying different cuisines.
-- ☺️ Exploring new ideas, learning, and enjoying life's little moments.
+- Reading personal development and self-growth books.
+- Listening to music and discovering new sounds.
+- Watching movies, especially those with a good story.
+- Swimming whenever I get the chance.
+- Exploring good food and enjoying different cuisines.
+- Exploring new ideas, learning, and enjoying life's little moments.
 
 
 ## 🛠️ Tech Stack:
