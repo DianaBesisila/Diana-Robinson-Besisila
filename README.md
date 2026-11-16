@@ -3,19 +3,19 @@
 
 
 <p align="center">
-  <a href="https://chisom-nnamani.netlify.app">
+  <a href="https://chisom-nnamani.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/portfolio-%23CCFF33.svg?&style=for-the-badge&logo=netlify&logoColor=black" alt="Portfolio Website" />
-  </a>&nbsp;
-  <a href="https://www.linkedin.com/in/chisom-nnamani/">
+  </a>
+  <a href="https://www.linkedin.com/in/chisom-nnamani/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="https://www.instagram.com/your_data_mentor/" target="_blank">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://medium.com/@ThatSweeetDataAnalyst" target="_blank">
+    <img src="https://img.shields.io/badge/medium-%2300AB6C.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
 </p>
-  
-  <a href="https://www.instagram.com/your_data_mentor/">
-  <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
-<a href="https://medium.com/@ThatSweeetDataAnalyst">
-  <img src="https://img.shields.io/badge/medium-%2300AB6C.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-</a>
 
 ## 🚀 About me:
 
