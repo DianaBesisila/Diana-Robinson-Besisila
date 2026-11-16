@@ -2,10 +2,11 @@
 <h3 align="center">Data Analytics Consultant | Educator | Founder, DataGirls Tanzania | Building Pathways for Women in Data & AI</h3>
 
 
-<p align="center">
+<<p align="center">
   <a href="https://chisom-nnamani.netlify.app">
     <img src="https://img.shields.io/badge/portfolio-%23CCFF33.svg?&style=for-the-badge&logo=netlify&logoColor=black" alt="Portfolio Website" />
   </a>&nbsp;
+</p>
   <a href="https://www.linkedin.com/in/yourdatamentor/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   
