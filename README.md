@@ -64,3 +64,20 @@ I love sharing my knowledge and experiences through writing. Check out my featur
 - [ELT Data Pipeline with GCP and Apache Airflow](https://medium.com/towards-data-engineering/elt-data-pipeline-with-gcp-and-apache-airflow-86c6d72544ef)
 <!-- MEDIUM:END -->
 
+## 🌍 Beyond Technology
+
+I'm passionate about creating opportunities for others through technology and entrepreneurship.
+
+Through [DataGirls Tanzania](https://www.linkedin.com/), I work towards helping girls and young women access skills and opportunities in Data Science, Analytics, and AI.
+
+Through Sheva Africa, I'm building pathways that connect African women in data analytics with businesses and economic opportunities.
+
+I believe technical skills become even more powerful when they create opportunities beyond ourselves.
+
+---
+
+<p align="center">
+  <b>Let's connect, collaborate, and build with data! 🚀</b>
+</p>
+
+
