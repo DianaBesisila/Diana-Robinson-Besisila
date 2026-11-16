@@ -11,11 +11,10 @@
   
   <a href="https://www.instagram.com/your_data_mentor/">
   <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
-</a>
-  </a>&nbsp;
-  <a href="https://medium.com/@chisomnnamani">
-    <img src="https://img.shields.io/badge/medium-%23D2B48C.svg?&style=for-the-badge&logo=medium&logoColor=black" alt="Medium" />
-  </a>&nbsp;
+</a>&nbsp;
+<a href="https://medium.com/@ThatSweeetDataAnalyst">
+  <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+</a>&nbsp;
 </p>
 
 
