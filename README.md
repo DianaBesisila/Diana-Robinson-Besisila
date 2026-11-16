@@ -73,11 +73,9 @@ I love sharing my knowledge and experiences through writing. Check out my featur
 - [Global Suicide Tableau Analysis 1985–2020.](https://medium.com/@ThatSweeetDataAnalyst/global-suicide-tableau-analysis-1985-2020-9952640d2a0c?sharedUserId=ThatSweeetDataAnalyst)
 <!-- MEDIUM:END -->
 
-## 🌍 Creating Impact Beyond Code.
+## 💡 A Little More About Me
 
-I'm passionate about creating opportunities for others through technology and entrepreneurship. As the Founder of [DataGirls Tanzania](https://www.linkedin.com/company/datagirls-tanzania/?viewAsMember=true), I work towards helping girls and young women access skills, mentorship, and opportunities in Data Science, Analytics, and AI. Through Sheva Africa, I'm building pathways that connect African women in data analytics with businesses and economic opportunities. I believe technical skills become even more powerful when we use them to create opportunities beyond ourselves.
-
----
+I'm passionate about learning, teaching, and helping people grow. I enjoy being part of other people's growth journeys, whether through training, mentorship, or sharing knowledge. Alongside my technical interests, I'm involved in education, entrepreneurship, and community initiatives. I'm the Founder & Executive Director of [DataGirls Tanzania](https://www.linkedin.com/company/datagirls-tanzania/?viewAsMember=true), where I lead initiatives that help girls and young women explore opportunities in Data Science, Analytics, and AI. These experiences allow me to work with different people, exchange ideas, and contribute to a more inclusive data and technology ecosystem.
 
 <p align="center">
   <b>Let's connect, collaborate, and build with data! 🚀</b>
