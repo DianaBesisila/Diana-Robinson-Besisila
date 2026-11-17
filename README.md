@@ -75,7 +75,7 @@ I love sharing my knowledge and experiences through writing. Check out my featur
 
 ## 💡 A Little More About Me
 
-I'm passionate about learning, teaching, and helping people grow. I find real fulfillment in being part of others' growth journeys—whether through training, mentorship, or simply sharing knowledge. Alongside my technical interests, I'm actively involved in education, entrepreneurship, and community initiatives. As the Founder & Executive Director of [DataGirls Tanzania](https://www.linkedin.com/company/datagirls-tanzania/?viewAsMember=true), I lead programs that help girls and young women explore opportunities in Data Science, Analytics, and AI—and develop the competence they need to seize them. These experiences let me collaborate with diverse people, exchange ideas, and contribute to building a more inclusive data and technology ecosystem
+I'm passionate about learning, teaching, and helping people grow. I find real fulfillment in being part of others' growth journeys whether through training, mentorship, or simply sharing knowledge. Alongside my technical interests, I'm actively involved in education, entrepreneurship, and community initiatives. As the Founder & Executive Director of [DataGirls Tanzania](https://www.linkedin.com/company/datagirls-tanzania/?viewAsMember=true), I lead programs that help girls and young women explore opportunities in Data Science, Analytics, and AI and develop the competence they need to seize them. These experiences let me collaborate with diverse people, exchange ideas, and contribute to building a more inclusive data and technology ecosystem
 
 <p align="center">
   <b>Let's connect, collaborate, and build with data! 🚀</b>
