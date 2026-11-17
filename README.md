@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <a href="https://chisom-nnamani.netlify.app" target="_blank">
+  <a href="https://www.linkedin.com/in/yourdatamentor/" target="_blank">
     <img src="https://img.shields.io/badge/portfolio-%23CCFF33.svg?&style=for-the-badge&logo=netlify&logoColor=black" alt="Portfolio Website" />
   </a>
   <a href="https://www.linkedin.com/in/yourdatamentor/" target="_blank">
